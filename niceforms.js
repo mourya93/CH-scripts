@@ -111,10 +111,10 @@ function niceform(nf) {
 }
 function inputText(el) { //extent Text inputs
 	el.oldClassName = el.className;
-	el.left = document.createElement('https://rawgit.com/mourya93/CH-img/master/');
+	el.left = document.createElement('https://rawgit.com/mourya93/CH-img/master');
 	el.left.src = imagesPath + "0.png";
 	el.left.className = "NFTextLeft";
-	el.right = document.createElement('https://rawgit.com/mourya93/CH-img/master/');
+	el.right = document.createElement('https://rawgit.com/mourya93/CH-img/master');
 	el.right.src = imagesPath + "0.png";
 	el.right.className = "NFTextRight";
 	el.dummy = document.createElement('div');
