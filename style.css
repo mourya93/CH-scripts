@@ -259,11 +259,13 @@ height:31px;
 margin:0 0 5px 0;
 }
 input.search_input{
+  background:url(https://rawgit.com/mourya93/CH-images/master/sidebar_menu_top.gif) no-repeat center;
+
 width:155px;
 height:16px;
 margin:5px 0 0 5px;
 border:1px #bdebfd solid;
-background:#92dbf8;
+background:#f5f5f5;
 padding:4px 0 0 2px;
 float:left;
 color:#096184;
