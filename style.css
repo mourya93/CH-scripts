@@ -293,11 +293,11 @@ border-collapse: collapse;
 #rounded-corner thead th.rounded-company
 {
 width:26px;
-background: #60c8f2 url('https://rawgit.com/mourya93/CH-images/master/left.jpg') left top no-repeat;
+background: #d12128 url('https://rawgit.com/mourya93/CH-images/master/left.jpg') left top no-repeat;
 }
 #rounded-corner thead th.rounded-q4
 {
-background: #60c8f2 url('https://rawgit.com/mourya93/CH-images/master/right.jpg') right top no-repeat;
+background: #d12128 url('https://rawgit.com/mourya93/CH-images/master/right.jpg') right top no-repeat;
 }
 #rounded-corner th
 {
