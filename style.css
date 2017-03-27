@@ -93,7 +93,7 @@ margin:0 auto;
 width:1200px;
 height:auto;
 padding:0px 0 50px 0;
-background:url(https://rawgit.com/mourya93/CH-images/master/menu_bg.jpg) no-repeat left top #fff;
+background:url(https://rawgit.com/mourya93/CH-images/master/menu_bg.jpg) no-repeat left center top #fff;
 }
 .footer{width:900px;height:87px;background:url(https://rawgit.com/mourya93/CH-images/master/footer_bg.jpg) no-repeat center top;}
 .footer_login{width:600px;margin:auto;}
