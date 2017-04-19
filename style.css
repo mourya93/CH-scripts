@@ -126,13 +126,13 @@ background:url(https://rawgit.com/mourya93/CH-images/master/menu_bg.jpg) no-repe
 {background:url(https://rawgit.com/mourya93/CH-images/master/menu_bg.gif) repeat-x center;}
 /* style the sub level links */
 .menu ul ul a, .menu ul ul a:visited {display:block;background:url(https://rawgit.com/mourya93/CH-images/master/menu_bg.gif) repeat-x center; border-bottom:1px #81dafc solid; color:#fff;width:12em;height:100%;line-height:1em;padding:1em 1em;}
-.menu ul table ul a, .menu ul table ul a:visited  {width:14em; w\idth:12em;}
+.menu ul table ul a, .menu ul table ul a:visited  {width:14em; width:12em;}
 
 
 /* style the table so that it takes no part in the layout - required for IE to work */
 .menu table {position:absolute; left:0; top:0; font-size:1em; z-index:-1;}
-.menu ul ul table {lef\t:-1px;}
-.menu ul ul table ul.left {margin-lef\t:2px;}
+.menu ul ul table {left:-1px;}
+.menu ul ul table ul.left {margin-left:2px;}
 
 .menu li:hover {position:relative;}
 * html .menu a:hover {position:relative;}
