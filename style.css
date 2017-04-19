@@ -125,7 +125,7 @@ background:url(https://rawgit.com/mourya93/CH-images/master/menu_bg.jpg) no-repe
 .menu a.
 {background:url(https://rawgit.com/mourya93/CH-images/master/menu_bg.gif) repeat-x center;}
 /* style the sub level links */
-.menu ul ul a, .menu ul ul a:visited {display:block;background:#57c0e8; border-bottom:1px #81dafc solid; color:#fff;width:12em;height:100%;line-height:1em;padding:1em 1em;}
+.menu ul ul a, .menu ul ul a:visited {display:block;background:url(https://rawgit.com/mourya93/CH-images/master/menu_bg.gif) repeat-x center; border-bottom:1px #81dafc solid; color:#fff;width:12em;height:100%;line-height:1em;padding:1em 1em;}
 .menu ul table ul a, .menu ul table ul a:visited  {width:14em; w\idth:12em;}
 
 
