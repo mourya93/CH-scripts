@@ -301,7 +301,7 @@ background: #ef647c url('https://rawgit.com/mourya93/CH-images/master/right.jpg'
 }
 #rounded-corner th
 {
-padding: 10px;
+padding: 12px;
 font-weight: normal;
 font-size: 13px;
 color: #039;
@@ -309,7 +309,7 @@ background: #ff4c6a;
 }
 #rounded-corner td
 {
-padding: 10px;
+padding: 12px;
 background: #ecf8fd;
 border-top: 1px solid #fff;
 color: #669;
