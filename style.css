@@ -124,7 +124,7 @@ background:url(https://rawgit.com/mourya93/CH-images/master/menu_bg.jpg) no-repe
 .menu a, .menu a:visited {display:block;float:left;height:100%;font-size:11px;text-decoration:none;color:#fff;padding:0 21px 0 17px;}
 .menu a.current{background:url(images/menu_bg.gif) repeat-x center;}
 /* style the sub level links */
-.menu ul ul a, .menu ul ul a:visited {display:block;background:#57c0e8; border-bottom:1px #81dafc solid; color:#fff;width:12em;height:100%;line-height:1em;padding:1em 1em;}
+.menu ul ul a, .menu ul ul a:visited {display:block;background:#f75744; border-bottom:1px #81dafc solid; color:#fff;width:12em;height:100%;line-height:1em;padding:1em 1em;}
 .menu ul table ul a, .menu ul table ul a:visited  {width:14em; w\idth:12em;}
 
 
@@ -137,13 +137,13 @@ background:url(https://rawgit.com/mourya93/CH-images/master/menu_bg.jpg) no-repe
 * html .menu a:hover {position:relative;}
 
 /* style the third level background */
-.menu ul ul ul a, .menu ul ul ul a:visited {background:#57c0e8;}
+.menu ul ul ul a, .menu ul ul ul a:visited {background:#f75744;}
 /* style the fourth level background */
-.menu ul ul ul ul a, .menu ul ul ul ul a:visited {background:#57c0e8;}
+.menu ul ul ul ul a, .menu ul ul ul ul a:visited {background:#f75744;}
 /* style the sub level 1 background */
-.menu ul :hover a.sub1 {background:url(images/arrow.gif) no-repeat right #309dc7;}
+.menu ul :hover a.sub1 {background:url(images/arrow.gif) no-repeat right #f75744;}
 /* style the sub level 2 background */
-.menu ul ul :hover a.sub2 {background:url(images/arrow.gif) no-repeat right #088bb4;}
+.menu ul ul :hover a.sub2 {background:url(images/arrow.gif) no-repeat right #f75744;}
 
 /* style the level hovers */
 /* first */
