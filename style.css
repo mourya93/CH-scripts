@@ -142,9 +142,9 @@ background:url(https://rawgit.com/mourya93/CH-images/master/menu_bg.jpg) no-repe
 /* style the fourth level background */
 .menu ul ul ul ul a, .menu ul ul ul ul a:visited {background:url(https://rawgit.com/mourya93/CH-images/master/menu_bg.gif) repeat-x center;}
 /* style the sub level 1 background */
-.menu ul :hover a.sub1 {background:url(https://rawgit.com/mourya93/CH-images/master/arrow.gif) no-repeat right #309dc7;}
+.menu ul :hover a.sub1 {background:url(https://rawgit.com/mourya93/CH-images/master/arrow.gif) no-repeat right #f75744;}
 /* style the sub level 2 background */
-.menu ul ul :hover a.sub2 {background:url(https://rawgit.com/mourya93/CH-images/master/arrow.gif) no-repeat right #088bb4;}
+.menu ul ul :hover a.sub2 {background:url(https://rawgit.com/mourya93/CH-images/master/arrow.gif) no-repeat right #f75744;}
 
 /* style the level hovers */
 /* first */
