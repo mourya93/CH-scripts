@@ -106,7 +106,7 @@ background:url(https://rawgit.com/mourya93/CH-images/master/menu_bg.jpg) no-repe
 .left_footer_login a{color:#FFFFFF;text-decoration:none;}
 .right_footer_login{float:right;padding:15px 10px 0 0;}
 /*---------------- menu----------------------*/
-.menu {font-size:11px;padding:0px 10px 0 10px; float:left; width:880px;}
+.menu {font-size:21px;padding:0px 10px 0 10px; float:left; width:880px;}
 
 /* remove all the bullets, borders and padding from the default list styling */
 .menu ul {padding:0;margin:0;list-style-type:none; height:34px;}
